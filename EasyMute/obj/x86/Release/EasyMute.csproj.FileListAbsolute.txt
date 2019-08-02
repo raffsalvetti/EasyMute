@@ -1,0 +1,12 @@
+D:\Dev.NET\EasyMute\EasyMute\bin\Release\EasyMute.exe.config
+D:\Dev.NET\EasyMute\EasyMute\bin\Release\EasyMute.exe
+D:\Dev.NET\EasyMute\EasyMute\bin\Release\EasyMute.pdb
+D:\Dev.NET\EasyMute\EasyMute\bin\Release\NAudio.dll
+D:\Dev.NET\EasyMute\EasyMute\bin\Release\NAudio.WindowsMediaFormat.dll
+D:\Dev.NET\EasyMute\EasyMute\bin\Release\NAudio.xml
+D:\Dev.NET\EasyMute\EasyMute\obj\x86\Release\EasyMute.Form1.resources
+D:\Dev.NET\EasyMute\EasyMute\obj\x86\Release\EasyMute.Properties.Resources.resources
+D:\Dev.NET\EasyMute\EasyMute\obj\x86\Release\EasyMute.Resource1.resources
+D:\Dev.NET\EasyMute\EasyMute\obj\x86\Release\EasyMute.csproj.GenerateResource.Cache
+D:\Dev.NET\EasyMute\EasyMute\obj\x86\Release\EasyMute.exe
+D:\Dev.NET\EasyMute\EasyMute\obj\x86\Release\EasyMute.pdb
